@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"Apple Macbook",
+        "photo":"https://zdnet3.cbsistatic.com/hub/i/r/2019/08/05/b2e40423-7c4c-48b5-9c7a-ea7ee92f96fe/thumbnail/770x433/c0942922b4c437cffdac1b9d2b0fd7e6/13-inch-mbpro-header.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Samsung Tv",
+        "photo": "https://cdn.shopify.com/s/files/1/2660/5202/products/yjnyl93xi81czfiw1oiw_1400x.jpg?v=1537306414"
+    },
+    {
+        "id": 3,
+        "name": "Apple Watch",
+        "photo": "https://images-na.ssl-images-amazon.com/images/I/512O6Fw5dTL._SX342_.jpg"
+    }
+]
